@@ -1,0 +1,96 @@
+Recipe,Count,Inputs,Outputs
+Rocket Fuel (burning),3992.277068195585,4.17 Rocket Fuel,250.00 Electricity
+Iron Wire,3482.792317682189,"12.50 Iron Ingot, 4.00 Electricity",22.50 Wire
+Pure Copper Ingot,2200.882575677193,"15.00 Copper Ore, 10.00 Water, 30.00 Electricity",37.50 Copper Ingot
+Pure Iron Ingot,2158.125180146423,"35.00 Iron Ore, 20.00 Water, 30.00 Electricity",65.00 Iron Ingot
+Extract Water,1786.9646564046031,20.00 Electricity,120.00 Water
+Steamed Copper Sheet,1083.3499299039122,"22.50 Copper Ingot, 22.50 Water, 30.00 Electricity",22.50 Copper Sheet
+Cable,957.5792373269943,"60.00 Wire, 4.00 Electricity",30.00 Cable
+Iron Pipe,926.1985590195775,"100.00 Iron Ingot, 4.00 Electricity",25.00 Steel Pipe
+Automated Wiring,574.5475423961966,"2.50 Stator, 50.00 Cable, 15.00 Electricity",2.50 Automated Wiring
+Pure Aluminum Ingot,565.795822155001,"60.00 Aluminum Scrap, 4.00 Electricity",30.00 Aluminum Ingot
+Stator,538.5073368778131,"15.00 Steel Pipe, 40.00 Wire, 15.00 Electricity",5.00 Stator
+Fused Quickwire,535.9703293967129,"7.50 Caterium Ingot, 37.50 Copper Ingot, 15.00 Electricity",90.00 Quickwire
+Silicon Circuit Board,503.5991561385941,"27.50 Copper Sheet, 27.50 Silica, 15.00 Electricity",12.50 Circuit Board
+Heavy Oil Residue,420.0,"30.00 Crude Oil, 30.00 Electricity","40.00 Heavy Oil Residue, 20.00 Polymer Resin"
+Pure Caterium Ingot,388.51131309556075,"24.00 Caterium Ore, 24.00 Water, 30.00 Electricity",12.00 Caterium Ingot
+Time Crystal,356.25,"12.00 Diamonds, 400.00 Electricity",6.00 Time Crystal
+Steeled Frame,354.0593243983096,"2.00 Reinforced Iron Plate, 10.00 Steel Pipe, 15.00 Electricity",3.00 Modular Frame
+Cheap Silica,311.79003416783496,"22.50 Raw Quartz, 37.50 Limestone, 15.00 Electricity",52.50 Silica
+Encased Industrial Pipe,300.4364759984153,"24.00 Steel Pipe, 20.00 Concrete, 15.00 Electricity",4.00 Encased Industrial Beam
+Caterium Computer,287.63955167487126,"15.00 Circuit Board, 52.50 Quickwire, 22.50 Rubber, 55.00 Electricity",3.75 Computer
+Adaptive Control Unit,287.2737711980983,"5.00 Automated Wiring, 5.00 Circuit Board, 1.00 Heavy Modular Frame, 2.00 Computer, 55.00 Electricity",1.00 Adaptive Control Unit
+Insulated Crystal Oscillator,268.99596811002067,"18.75 Quartz Crystal, 13.12 Rubber, 1.88 AI Limiter, 55.00 Electricity",1.88 Crystal Oscillator
+AI Limiter,268.36253182773424,"25.00 Copper Sheet, 100.00 Quickwire, 15.00 Electricity",5.00 AI Limiter
+Diluted Fuel,264.22121160017673,"50.00 Heavy Oil Residue, 100.00 Water, 75.00 Electricity",100.00 Fuel
+Alclad Aluminum Sheet,252.0069332661121,"30.00 Aluminum Ingot, 10.00 Copper Ingot, 15.00 Electricity",30.00 Alclad Aluminum Sheet
+Uranium Fuel Rod (burning),251.99999999999997,"0.20 Uranium Fuel Rod, 240.00 Water","10.00 Uranium Waste, 2500.00 Electricity"
+Wet Concrete,230.2798474088122,"120.00 Limestone, 100.00 Water, 30.00 Electricity",80.00 Concrete
+Iron Plate,226.55651741678258,"30.00 Iron Ingot, 4.00 Electricity",20.00 Iron Plate
+Recycled Rubber,221.89168075875193,"30.00 Plastic, 30.00 Fuel, 30.00 Electricity",60.00 Rubber
+Fused Wire,214.1194288904604,"12.00 Copper Ingot, 3.00 Caterium Ingot, 15.00 Electricity",90.00 Wire
+Residual Rubber,210.0,"40.00 Polymer Resin, 40.00 Water, 30.00 Electricity",20.00 Rubber
+Electromagnetic Control Rod,209.36130473309566,"6.00 Stator, 4.00 AI Limiter, 15.00 Electricity",4.00 Electromagnetic Control Rod
+Assembly Director System,191.51584746539888,"1.50 Adaptive Control Unit, 0.75 Supercomputer, 15.00 Electricity",0.75 Assembly Director System
+Recycled Plastic,190.9929617132167,"30.00 Rubber, 30.00 Fuel, 30.00 Electricity",60.00 Plastic
+Turbofuel,170.47691912010112,"22.50 Fuel, 15.00 Compacted Coal, 30.00 Electricity",18.75 Turbofuel
+Stitched Iron Plate,168.10998200828786,"18.75 Iron Plate, 37.50 Wire, 15.00 Electricity",5.62 Reinforced Iron Plate
+Basic Iron Ingot,147.38167620337654,"25.00 Iron Ore, 40.00 Limestone, 16.00 Electricity",50.00 Iron Ingot
+Packaged Turbofuel,142.5,"20.00 Turbofuel, 20.00 Empty Canister, 10.00 Electricity",20.00 Packaged Turbofuel
+Heavy Encased Frame,128.18622975932385,"7.50 Modular Frame, 9.38 Encased Industrial Beam, 33.75 Steel Pipe, 20.62 Concrete, 55.00 Electricity",2.81 Heavy Modular Frame
+Smart Plating,118.75,"2.00 Reinforced Iron Plate, 2.00 Rotor, 15.00 Electricity",2.00 Smart Plating
+Modular Engine,118.75,"2.00 Motor, 15.00 Rubber, 2.00 Smart Plating, 55.00 Electricity",1.00 Modular Engine
+Electrode Aluminum Scrap,113.15916443100019,"180.00 Alumina Solution, 60.00 Petroleum Coke, 30.00 Electricity","300.00 Aluminum Scrap, 105.00 Water"
+Crystal Computer,108.80546412377325,"5.00 Circuit Board, 1.67 Crystal Oscillator, 15.00 Electricity",3.33 Computer
+Copper Powder,103.0,"300.00 Copper Ingot, 4.00 Electricity",50.00 Copper Powder
+Pure Quartz Crystal,96.06998861072168,"67.50 Raw Quartz, 37.50 Water, 30.00 Electricity",52.50 Quartz Crystal
+Super-State Computer,93.44245233293718,"7.20 Computer, 2.40 Electromagnetic Control Rod, 24.00 Battery, 60.00 Wire, 55.00 Electricity",2.40 Supercomputer
+Nitro Rocket Fuel,89.37048753107875,"100.00 Fuel, 75.00 Nitrogen Gas, 100.00 Sulfur, 50.00 Coal, 75.00 Electricity","150.00 Rocket Fuel, 25.00 Compacted Coal"
+Reanimated SAM,85.0,"120.00 SAM, 4.00 Electricity",30.00 Reanimated SAM
+Sloppy Alumina,84.86937332325014,"200.00 Bauxite, 200.00 Water, 30.00 Electricity",240.00 Alumina Solution
+Infused Uranium Cell,84.0,"25.00 Uranium, 15.00 Silica, 25.00 Sulfur, 75.00 Quickwire, 55.00 Electricity",20.00 Encased Uranium Cell
+Uranium Fuel Unit,84.0,"20.00 Encased Uranium Cell, 2.00 Electromagnetic Control Rod, 0.60 Crystal Oscillator, 2.00 Rotor, 55.00 Electricity",0.60 Uranium Fuel Rod
+Copper Rotor,83.1925925925926,"22.50 Copper Sheet, 195.00 Screws, 15.00 Electricity",11.25 Rotor
+Magnetic Field Generator,80.625,"2.50 Versatile Framework, 1.00 Electromagnetic Control Rod, 15.00 Electricity",1.00 Magnetic Field Generator
+Solid Steel Ingot,77.69543209876544,"40.00 Iron Ingot, 40.00 Coal, 16.00 Electricity",60.00 Steel Ingot
+Radio Control Unit,77.6,"40.00 Aluminum Casing, 1.25 Crystal Oscillator, 2.50 Computer, 55.00 Electricity",2.50 Radio Control Unit
+Encased Plutonium Cell,75.6,"10.00 Plutonium Pellet, 20.00 Concrete, 15.00 Electricity",5.00 Encased Plutonium Cell
+Classic Battery,74.75396186634974,"45.00 Sulfur, 52.50 Alclad Aluminum Sheet, 60.00 Plastic, 90.00 Wire, 55.00 Electricity",30.00 Battery
+Turbo Diamonds,71.25,"600.00 Coal, 40.00 Packaged Turbofuel, 750.00 Electricity",60.00 Diamonds
+Coal (Limestone),66.88618050420463,"10.00 Reanimated SAM, 360.00 Limestone, 400.00 Electricity",120.00 Coal
+Petroleum Coke,63.2083628723559,"40.00 Heavy Oil Residue, 30.00 Electricity",120.00 Petroleum Coke
+Steel Screws,62.394444444444446,"5.00 Steel Beam, 4.00 Electricity",260.00 Screws
+Dark Matter Trap,57.8125,"30.00 Time Crystal, 150.00 Dark Matter Residue, 1500.00 Electricity",60.00 Dark Matter Crystal
+Electric Motor,55.94444444444445,"3.75 Electromagnetic Control Rod, 7.50 Rotor, 15.00 Electricity",7.50 Motor
+Nitric Acid,55.49638661748494,"120.00 Nitrogen Gas, 30.00 Water, 10.00 Iron Plate, 75.00 Electricity",30.00 Nitric Acid
+Heat Sink,54.8,"37.50 Alclad Aluminum Sheet, 22.50 Copper Sheet, 15.00 Electricity",7.50 Heat Sink
+Nuclear Pasta,51.5,"100.00 Copper Powder, 0.50 Pressure Conversion Cube, 1500.00 Electricity",0.50 Nuclear Pasta
+Non-Fissile Uranium,50.4,"37.50 Uranium Waste, 25.00 Silica, 15.00 Nitric Acid, 15.00 Sulfuric Acid, 75.00 Electricity","50.00 Non-Fissile Uranium, 15.00 Water"
+Plutonium Fuel Rod,50.4,"7.50 Encased Plutonium Cell, 4.50 Steel Beam, 1.50 Electromagnetic Control Rod, 2.50 Heat Sink, 55.00 Electricity",0.25 Plutonium Fuel Rod
+Thermal Propulsion Rocket,47.5,"2.50 Modular Engine, 1.00 Turbo Motor, 3.00 Cooling System, 1.00 Fused Modular Frame, 55.00 Electricity",1.00 Thermal Propulsion Rocket
+Coated Iron Canister,47.5,"30.00 Iron Plate, 15.00 Copper Sheet, 15.00 Electricity",60.00 Empty Canister
+Sulfur (Iron),42.936922632635934,"10.00 Reanimated SAM, 300.00 Iron Ore, 400.00 Electricity",120.00 Sulfur
+Coated Iron Plate,42.34527573992794,"37.50 Iron Ingot, 7.50 Plastic, 15.00 Electricity",75.00 Iron Plate
+Excited Photonic Matter,42.109375,400.00 Electricity,200.00 Excited Photonic Matter
+Ficsite Trigon,40.3125,"10.00 Ficsite Ingot, 4.00 Electricity",30.00 Ficsite Trigon
+Versatile Framework,40.3125,"2.50 Modular Frame, 30.00 Steel Beam, 15.00 Electricity",5.00 Versatile Framework
+Molded Beam,38.84771604938272,"120.00 Steel Ingot, 80.00 Concrete, 16.00 Electricity",45.00 Steel Beam
+Turbo Blend Fuel,35.35349683656429,"15.00 Fuel, 30.00 Heavy Oil Residue, 22.50 Sulfur, 22.50 Petroleum Coke, 75.00 Electricity",45.00 Turbofuel
+Superposition Oscillator,35.125,"30.00 Dark Matter Crystal, 5.00 Crystal Oscillator, 45.00 Alclad Aluminum Sheet, 125.00 Excited Photonic Matter, 2000.00 Electricity","5.00 Superposition Oscillator, 125.00 Dark Matter Residue"
+Rocket Fuel,32.2891598524548,"60.00 Turbofuel, 10.00 Nitric Acid, 75.00 Electricity","100.00 Rocket Fuel, 10.00 Compacted Coal"
+Cooling Device,28.5,"10.00 Heat Sink, 2.50 Motor, 60.00 Nitrogen Gas, 75.00 Electricity",5.00 Cooling System
+Alclad Casing,27.59111111111111,"150.00 Aluminum Ingot, 75.00 Copper Ingot, 15.00 Electricity",112.50 Aluminum Casing
+Neural-Quantum Processor,26.875,"15.00 Time Crystal, 3.00 Supercomputer, 45.00 Ficsite Trigon, 75.00 Excited Photonic Matter, 2000.00 Electricity","3.00 Neural-Quantum Processor, 75.00 Dark Matter Residue"
+Singularity Cell,25.75,"1.00 Nuclear Pasta, 20.00 Dark Matter Crystal, 100.00 Iron Plate, 200.00 Concrete, 55.00 Electricity",10.00 Singularity Cell
+Pressure Conversion Cube,25.75,"1.00 Fused Modular Frame, 2.00 Radio Control Unit, 15.00 Electricity",1.00 Pressure Conversion Cube
+Nitrogen Gas (Caterium),25.60294132440915,"10.00 Reanimated SAM, 120.00 Caterium Ore, 400.00 Electricity",120.00 Nitrogen Gas
+Plutonium Pellet,25.2,"100.00 Non-Fissile Uranium, 25.00 Uranium Waste, 750.00 Electricity",30.00 Plutonium Pellet
+Heat-Fused Frame,24.416666666666668,"3.00 Heavy Modular Frame, 150.00 Aluminum Ingot, 24.00 Nitric Acid, 30.00 Fuel, 75.00 Electricity",3.00 Fused Modular Frame
+Bauxite (Copper),21.593118693567238,"10.00 Reanimated SAM, 180.00 Copper Ore, 400.00 Electricity",120.00 Bauxite
+Ballistic Warp Drive (boost),19.0,"2.50 Thermal Propulsion Rocket, 12.50 Singularity Cell, 5.00 Superposition Oscillator, 100.00 Dark Matter Crystal, 20146.50 Electricity, 4.00 Somersloop",5.00 Ballistic Warp Drive
+AI Expansion Server,17.65625,"4.00 Magnetic Field Generator, 4.00 Neural-Quantum Processor, 4.00 Superposition Oscillator, 100.00 Excited Photonic Matter, 2000.00 Electricity","4.00 AI Expansion Server, 100.00 Dark Matter Residue"
+Bauxite (Caterium),17.355836845182996,"10.00 Reanimated SAM, 150.00 Caterium Ore, 400.00 Electricity",120.00 Bauxite
+Turbo Electric Motor,16.88888888888889,"6.56 Motor, 8.44 Radio Control Unit, 4.69 Electromagnetic Control Rod, 6.56 Rotor, 55.00 Electricity",2.81 Turbo Motor
+Sulfuric Acid,15.12,"50.00 Sulfur, 50.00 Water, 30.00 Electricity",50.00 Sulfuric Acid
+Ficsite Ingot (Aluminum),13.4375,"60.00 Reanimated SAM, 120.00 Aluminum Ingot, 400.00 Electricity",30.00 Ficsite Ingot
+AI Expansion Server (boost),1.0,"10.00 Magnetic Field Generator, 10.00 Neural-Quantum Processor, 10.00 Superposition Oscillator, 250.00 Excited Photonic Matter, 26862.00 Electricity, 4.00 Somersloop","20.00 AI Expansion Server, 500.00 Dark Matter Residue"
